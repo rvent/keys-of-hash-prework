@@ -24,5 +24,5 @@ end
 #   "tomato frog"=>"Madagascar",
 #   "koala"=>"Australia"
 # }
-# 
-# p animals.keys_of("Madagascar")  
+#
+# p animals.keys_of("Madagascar")
