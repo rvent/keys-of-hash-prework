@@ -7,6 +7,7 @@ class Hash
       if value = arguments
         keys << key
       end
+    end
+    keys
   end
-  keys
 end
