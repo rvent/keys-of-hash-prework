@@ -4,7 +4,7 @@ class Hash
     keys = []
 
     self.each do |key, value|
-      if value = arguments
+      if value == arguments
         keys << key
       end
     end
