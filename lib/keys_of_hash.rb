@@ -22,4 +22,4 @@ animals =  {
   "koala"=>"Australia"
 }
 
-p animals.keys_of  
+p animals.keys_of("Madagascar")  
