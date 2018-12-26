@@ -22,4 +22,4 @@ animals =  {
   "koala"=>"Australia"
 }
 
-puts animals.keys_of  
+prints animals.keys_of  
